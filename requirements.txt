@@ -1,7 +1,7 @@
 chardet==3.0.4
 iribaker==0.2
 isodate==0.6.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 Js2Py==0.66
 pyjsparser==2.7.1
 pytz==2019.1
